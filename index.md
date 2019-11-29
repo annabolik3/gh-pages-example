@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example
+title: Kind of a project title
 ---
 
 # Example project
